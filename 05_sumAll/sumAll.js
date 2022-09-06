@@ -25,7 +25,7 @@ else if ((typeof x === 'object') || (typeof y === 'object')) { // checks if a pa
 }
 
 
-for(i = smallerValue; i <= biggerValue; i++) { // loop that adds all numbers in all iterations between the two parameters
+for(i = smallerValue; i <= biggerValue; i++) { // loop that adds all numbers using the two parameters
 
     sumOfAll += i;
 
